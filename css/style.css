@@ -1,0 +1,9 @@
+body {
+    background-color: gray;
+}
+div {
+    background-color: orange;
+    height: 10em;
+    width: 10em;
+    margin-bottom: 2em;
+}
